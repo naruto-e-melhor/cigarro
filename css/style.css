@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}h1{
+    color: blue;
+    text-align: center;
+}h2{
+    margin-left: 20px;
+}h3{
+    margin-left: 10px;
+}p{
+    color: white ;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}img{
+    margin-left: 10px;
+}.cc{
+    border: 3px aqua solid;
+}.cc h2{
+    color: aqua;
+}.ce{
+    border: 3px rgb(241, 66, 66) solid;
+}.ce h2{
+    color: rgb(241, 66, 66);
+}.resumo h2{
+    color: greenyellow;
+    text-align: center;
+}.resumo h3{
+    color: yellow;
+}li{
+    color: white;
+}.corpo{
+    border: 3px greenyellow solid;
+}.corpo h2{
+    color: greenyellow;
+}.corpo h3{
+    color: green;
+}#b{
+    border: 3px red solid;
+}#b div{
+    border: 3px aqua solid;
+    margin: 10px;
+}#b div h2{
+    text-align: center;
+    color: brown;
+}#resumos{
+    border: 3px yellow solid;
+}#resumos h2{
+    color: yellow;
+}a{
+    color: blue;
+}video{
+    margin-left: 20px;
+}
