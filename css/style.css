@@ -35,12 +35,18 @@ body{
     color: greenyellow;
 }.corpo h3{
     color: green;
+}#ds{
+    border: 6px rgba(78, 31, 31, 0.404) solid;
+}#ds h2{
+    color: red;
+}#ds h3{
+    color: rgb(104, 56, 28);
 }#b{
     border: 3px red solid;
-}#b div{
+}#b #ccvsce{
     border: 3px aqua solid;
     margin: 10px;
-}#b div h2{
+}#b #ccvsce h2{
     text-align: center;
     color: brown;
 }#resumos{
@@ -49,6 +55,10 @@ body{
     color: yellow;
 }a{
     color: blue;
+    font-size: 20px;
+}a:hover{
+    color: red;
 }video{
     margin-left: 20px;
+    margin-bottom: 20px;
 }
